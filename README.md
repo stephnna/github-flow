@@ -15,7 +15,6 @@ GitHub Flow
 - Twitter: [@stephnna](https://twitter.com/stephnna)
 - LinkedIn: [Linkedin](linkedin.com/in/stephen-nnabuike-ezea-143b97170)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
