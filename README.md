@@ -1,56 +1,20 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Project Name
 
-> Description the project.
+GitHub Flow
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+-Microverse Template
+- Linters
+- HTML & CSS
 
-## Live Demo (if available)
+👤 Author
 
-[Live Demo Link](https://livedemo.com)
+- GitHub: [@stephnna](https://github.com/stephnna)
+- Twitter: [@stephnna](https://twitter.com/stephnna)
+- LinkedIn: [LinkedIn](linkedin.com/in/stephen-nnabuike-ezea-143b97170)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -68,6 +32,4 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
