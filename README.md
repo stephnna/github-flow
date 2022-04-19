@@ -9,12 +9,11 @@ GitHub Flow
 - Linters
 - HTML & CSS
 
-👤 Author
+👤 Ezea Stephen Nnabuike
 
 - GitHub: [@stephnna](https://github.com/stephnna)
 - Twitter: [@stephnna](https://twitter.com/stephnna)
-- LinkedIn: [www.linkedin.com/in/stephen-nnabuike-ezea-143b97170](linkedin.com/in/stephen-nnabuike-ezea-143b97170)
-
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/stephen-nnabuike-ezea-143b97170/)
 
 ## 🤝 Contributing
 

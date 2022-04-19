@@ -1,0 +1,9 @@
+# .gitignore
+node_modules/
+test.md
+MIT.md
+app_screenshot.png
+
+
+
+
