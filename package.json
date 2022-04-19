@@ -1,0 +1,20 @@
+{
+  "name": "github-flow",
+  "version": "1.0.0",
+  "description": "GitHub Flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephnna/github-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephnna/github-flow/issues"
+  },
+  "homepage": "https://github.com/stephnna/github-flow#readme"
+}
