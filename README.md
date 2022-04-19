@@ -13,7 +13,7 @@ GitHub Flow
 
 - GitHub: [@stephnna](https://github.com/stephnna)
 - Twitter: [@stephnna](https://twitter.com/stephnna)
-- LinkedIn: [Linkedin](linkedin.com/in/stephen-nnabuike-ezea-143b97170)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/stephen-nnabuike-ezea-143b97170/)
 
 ## 🤝 Contributing
 
